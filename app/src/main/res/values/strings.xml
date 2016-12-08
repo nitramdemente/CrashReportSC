@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">CollisionReports</string>
+    <string name="txt_involved">INVOLUCRADOS</string>
+    <string name="txt_photo">CAPTURAS</string>
+    <string name="txt_date">01/12/2016</string>
+    <string name="txt_time">10:20 AM</string>
+    <string name="txt_datetime">Fecha/Hora Incidente:</string>
+    <string name="txt_severity">GRAVEDAD</string>
+    <string name="txt_weather">CLIMA</string>
+    <string name="txt_surface">SUPERFICIE</string>
+    <string name="txt_segurity">SEGURO</string>
+    <string name="btn_cancel">Cancelar</string>
+    <string name="btn_register">Registrar</string>
+    <string name="policia">Policia</string>
+    <string name="btn_pedestrian">Peaton</string>
+</resources>
