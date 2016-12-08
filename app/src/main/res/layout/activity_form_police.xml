@@ -54,12 +54,12 @@
                 android:text="@string/txt_involved"
                 android:textStyle="bold" />
 
-            <!--<Button-->
-                <!--android:layout_width="25dp"-->
-                <!--android:layout_height="25dp"-->
-                <!--android:layout_alignParentRight="true"-->
-                <!--android:layout_below="@id/form_involved"-->
-                <!--android:background="@mipmap/more" />-->
+            <Button
+                android:layout_width="25dp"
+                android:layout_height="25dp"
+                android:layout_alignParentRight="true"
+                android:layout_below="@id/form_involved"
+                android:background="@mipmap/more" />
 
         </RelativeLayout>
 
