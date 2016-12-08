@@ -95,19 +95,6 @@
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="@string/txt_surface"
-                android:textStyle="bold" />
-
-            <Spinner
-                android:id="@+id/sp_surface"
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:contentDescription="@string/txt_surface"
-                android:textAlignment="center" />
-
-            <TextView
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
                 android:text="@string/txt_weather"
                 android:textStyle="bold" />
 
