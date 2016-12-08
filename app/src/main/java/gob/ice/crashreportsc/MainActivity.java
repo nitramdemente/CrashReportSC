@@ -19,7 +19,7 @@ public class MainActivity extends AppCompatActivity {
 
         super.onCreate(savedInstanceState);
         setContentView(R.layout.splash);
-        
+
 
         new Handler().postDelayed(new Runnable() {
             @Override
