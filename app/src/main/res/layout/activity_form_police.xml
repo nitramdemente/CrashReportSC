@@ -86,7 +86,7 @@
         </RelativeLayout>
 
 
-        <!--<LinearLayout
+        <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginRight="5dp"
@@ -117,7 +117,7 @@
                 android:layout_height="wrap_content"
                 android:contentDescription="@string/txt_severity"
                 android:textAlignment="center" />
-        </LinearLayout>-->
+        </LinearLayout>
 
         <LinearLayout
             android:layout_width="match_parent"
@@ -136,11 +136,11 @@
                 android:layout_height="wrap_content"
                 android:orientation="horizontal">
 
-                <Switch
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:layout_weight="1"
-                    android:text="SOAT" />
+                <!--<Switch-->
+                    <!--android:layout_width="wrap_content"-->
+                    <!--android:layout_height="wrap_content"-->
+                    <!--android:layout_weight="1"-->
+                    <!--android:text="SOAT" />-->
 
                 <Switch
                     android:layout_width="wrap_content"
