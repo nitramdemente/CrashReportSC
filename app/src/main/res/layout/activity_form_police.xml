@@ -148,11 +148,11 @@
                     android:layout_weight="1"
                     android:text="Privado" />
 
-                <!--<Switch-->
-                    <!--android:layout_width="wrap_content"-->
-                    <!--android:layout_height="wrap_content"-->
-                    <!--android:layout_weight="1"-->
-                    <!--android:text="No Figura" />-->
+                <Switch
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="No Figura" />
             </LinearLayout>
 
 
@@ -166,16 +166,16 @@
         android:layout_height="50dp"
         android:layout_alignParentBottom="true">
 
-        <!--<Button-->
-            <!--android:layout_width="wrap_content"-->
-            <!--android:layout_height="wrap_content"-->
-            <!--android:layout_weight="1"-->
-            <!--android:text="@string/btn_cancel" />-->
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="@string/btn_cancel" />
 
-        <!--<Button-->
-            <!--android:layout_width="wrap_content"-->
-            <!--android:layout_height= "wrap_content"-->
-            <!--android:layout_weight="1"-->
-            <!--android:text="@string/btn_register" />-->
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height= "wrap_content"
+            android:layout_weight="1"
+            android:text="@string/btn_register" />
     </LinearLayout>
 </RelativeLayout>
